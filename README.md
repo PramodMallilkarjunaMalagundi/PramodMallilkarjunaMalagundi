@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PramodMallilkarjunaMalagundi
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning B-Tech II year(3rd sem).
+- 🌱 I’m currently learning B-Tech III year(5rd sem).
 - 📫 How to reach me pramu.malagundi@gmail.com
 
 <!---
